@@ -1,7 +1,9 @@
 /* 
-A project on "Customer Billing System",**This project is the developed by students of section F (CC& GAG) batch 2019, Department of Computer Science and Enineering, Faculty of Engineering and Technology, Manav Rachna International Institute of Research & Studies.  
+A project on "Customer Billing System"
+**This project is the developed by students of section F (CC& GAG) batch 2019, 
+Department of Computer Science and Enineering, Faculty of Engineering and Technology, 
+Manav Rachna International Institute of Research & Studies.  
 */
-
 #include <stdio.h>
 #include<stdlib.h> 
 #include "billingFunctions.h"
